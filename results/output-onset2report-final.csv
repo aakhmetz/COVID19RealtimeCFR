@@ -1,0 +1,7 @@
+dataset,distribution,truncated,CIs,mean,sd,negloglk,AIC,mean_lower,mean_upper,sd_lower,sd_upper
+onset2report,gamma,no,95%,5.32,4.46,39.606,75.212,3.485,8.648,2.81,8.736
+onset2report,gamma,yes,95%,18.309,8.728,48.424,92.848,1.7,31.876,1.787,49.796
+onset2report,lognormal,no,95%,5.587,6.418,39.729,75.459,3.442,12.226,2.997,28.257
+onset2report,weibull,no,95%,5.326,4.343,39.625,75.25,3.485,8.6,1.997,11.056
+onset2report,weibull,yes,90%,12.075,3.576,52.539,101.079,9.117,NA,NA,NA
+onset2report,exponential,no,95%,5.302,5.302,40.065,78.131,3.319,9.224,3.319,9.224
