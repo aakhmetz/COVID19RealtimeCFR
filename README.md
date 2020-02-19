@@ -29,7 +29,7 @@
 * [E3a. Figure - sensitivity for CUTOFF_TIME - Scenario 1.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/WuhanCFR2020/blob/master/scripts/E3a.%20Figure%20-%20sensitivity%20for%20CUTOFF_TIME%20-%20Scenario%201.ipynb)
 * [E3b. Figure - sensitivity for CUTOFF_TIME - Scenario 2.ipynb](https://github.com/aakhmetz/WuhanCFR2020/blob/master/scripts/E3b.%20Figure%20-%20sensitivity%20for%20CUTOFF_TIME%20-%20Scenario%202.ipynb)
 
-**References to other analysis on github**
+*References to other analysis on github*
 * [Estimating case fatality ratio of COVID-19 from observed cases outside China by *Christian L. Althaus*](https://github.com/calthaus/ncov-cfr)
 
 ------
