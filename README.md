@@ -1,6 +1,6 @@
 # Real-time assessment of the risk of death from novel coronavirus (COVID-19) infection
 
-*Supporting materials* for Jung, S.-M.; Akhmetzhanov, A.R.; Hayashi, K.; Linton, N.M.; Yang, Y.; Yuan, B.; Kobayashi, T.; Kinoshita, R.; Nishiura, H. Real-Time Estimation of the Risk of Death from Novel Coronavirus (COVID-19) Infection: Inference Using Exported Cases. J. Clin. Med. **2020**, 9, 523. ([doi:10.3390/jcm9020523](http://dx.doi.org/10.3390/jcm9020523)) 
+*Supporting materials* for Sung-mok Jung, Andrei R. Akhmetzhanov, Katsuma Hayashi, Natalie M. Linton, Yichi Yang, Baoyin Yuan, Tetsuro Kobayashi, Ryo Kinoshita, Hiroshi Nishiura Real-Time Estimation of the Risk of Death from Novel Coronavirus (COVID-19) Infection: Inference Using Exported Cases. J. Clin. Med. **2020**, 9, 523. ([doi:10.3390/jcm9020523](http://dx.doi.org/10.3390/jcm9020523)) 
 
 [**See medrxiv version on github**](https://github.com/aakhmetz/WuhanCFR2020/blob/master/manuscript/Jung%20et%20al%202020%20Medrxiv%20-%20version%202.pdf)
 
@@ -25,6 +25,7 @@
 * [E1. Figure 1.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/WuhanCFR2020/blob/master/scripts/E1.%20Figure%201.ipynb)
 * [E2. Figure - sensitivity for t0.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/WuhanCFR2020/blob/master/scripts/E2.%20Figure%20-%20sensitivity%20for%20t0.ipynb)
 * [E3a. Figure - sensitivity for CUTOFF_TIME - Scenario 1.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/WuhanCFR2020/blob/master/scripts/E3a.%20Figure%20-%20sensitivity%20for%20CUTOFF_TIME%20-%20Scenario%201.ipynb)
+* [E3b. Figure - sensitivity for CUTOFF_TIME - Scenario 2.ipynb](https://github.com/aakhmetz/WuhanCFR2020/blob/master/scripts/E3b.%20Figure%20-%20sensitivity%20for%20CUTOFF_TIME%20-%20Scenario%202.ipynb)
 
 ------
 **Thank you for your interest to our work.**
